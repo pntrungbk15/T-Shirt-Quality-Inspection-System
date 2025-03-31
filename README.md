@@ -1,6 +1,6 @@
-# 👕 [TCS_Flow Project]
+# 👕 [T-Shirt-Quality-Inspection-System]
 
-This project provides a complete pipeline for inspecting T-shirts in the TSC project. It includes dataset downloading, model training, and inference.
+This project provides a complete pipeline for inspecting T-shirts in the T-Shirt-Quality-Inspection-System project. It includes dataset downloading, model training, and inference.
 
 ### 🚀 Models used in this project:
 
@@ -83,4 +83,5 @@ This project provides a complete pipeline for inspecting T-shirts in the TSC pro
 
 ### 💡 Conclusion
 
-This repository provides a CI/CD pipeline for dataset downloading, model training, and inference in the TSC inspection system. The project integrates multiple computer vision models (YOLO, CLIP, PaddleOCR) and uses OpenCV and scikit-learn for preprocessing and post-processing. 🚀
+This repository provides a CI/CD pipeline for dataset downloading, model training, and inference in the T-Shirt-Quality-Inspection-System
+. The project integrates multiple computer vision models (YOLO, CLIP, PaddleOCR) and uses OpenCV and scikit-learn for preprocessing and post-processing. 🚀
